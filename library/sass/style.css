@@ -1,0 +1,55 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Inter", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-weight: 400;
+  font-family: "Forum", serif;
+}
+
+ul {
+  padding-left: 0;
+}
+
+a {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+h1 {
+  font-size: 30px;
+  color: #ffffff;
+  line-height: 50px;
+  letter-spacing: 2%;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.header__wrapper {
+  display: flex;
+  background-color: #0c0c0e;
+}
+
+.wrapper {
+  width: 1440px;
+}
+
+/*# sourceMappingURL=style.css.map */
